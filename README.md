@@ -59,3 +59,6 @@ The application consists of the following components:
 - **GUI Framework**: Swing
 - **Database**: MySQL
 - **JDBC Driver**: MySQL Connector/J
+
+
+<img src="pic/View.png">
